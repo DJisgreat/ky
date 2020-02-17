@@ -2,7 +2,7 @@
 This repository is designed for SHUhelper to show what services we provide. 
 This project was created by angular and ng-zorro. 
 
-the final composition is in page.jpg.
+the final composition is in page.png.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
